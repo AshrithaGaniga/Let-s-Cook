@@ -1,4 +1,4 @@
-**🧑‍🍳 Let's Cook**
+###**🧑‍🍳 Let's Cook** 
 
 A responsive recipe finder app built using React that allows users to search for meals, filter by vegetarian/non-vegetarian and course type (starter, main course, dessert), and view full recipes.
 
