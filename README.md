@@ -10,13 +10,13 @@ A responsive recipe finder app built using React that allows users to search for
 -  Responsive design  
 -  Emoji-based UI for enhanced user experience
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **API:** TheMealDB  
 - **Version Control:** Git & GitHub
 
-## 📸 Screenshot
+##  Screenshot
 
 ![App Screenshot](https://raw.githubusercontent.com/AshrithaGaniga/Let-s-Cook/main/Lets-Cook.png)
 
