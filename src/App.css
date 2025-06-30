@@ -32,7 +32,7 @@
   vertical-align: middle;
 }
 
-/* Search Form */
+
 form {
   display: flex;
   justify-content: center;
@@ -47,17 +47,17 @@ input {
   max-width: 80%;
   font-size: 16px;
   border-radius: 8px;
-  border: 2px solid #333;  /* Black border */
+  border: 2px solid #333; 
   outline: none;
   background-color: #fff;
-  color: #000;  /* Black input text */
+  color: #000;  
 }
 
 button {
   padding: 12px 20px;
   font-size: 16px;
   background-color: #e6f2ff;
-  color: black;  /* ✅ Black button text */
+  color: black; 
   border: none;
   border-radius: 8px;
   cursor: pointer;
@@ -75,7 +75,7 @@ button:hover {
   margin-bottom: 20px;
 }
 
-/* Recipe Grid */
+
 .recipes {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
@@ -83,7 +83,7 @@ button:hover {
   padding: 20px;
 }
 
-/* Filter Buttons */
+
 .filter-buttons {
   display: flex;
   justify-content: center;
@@ -101,7 +101,7 @@ button:hover {
   cursor: pointer;
   transition: transform 0.2s ease;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  color: black;  /* ✅ Ensures filter button text is black */
+  color: black;  
 }
 
 .filter:hover {
@@ -121,7 +121,7 @@ button:hover {
   background-color: #e6f2ff;
 }
 
-/* Global Body Styling */
+
 body {
   background-color: 	#cadced;
   margin: 0;
