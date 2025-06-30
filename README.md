@@ -2,15 +2,15 @@
 
 A responsive recipe finder app built using React that allows users to search for meals, filter by vegetarian/non-vegetarian and course type (starter, main course, dessert), and view full recipes.
 
-## 🚀 Features
+##  Features
 
-- 🔍 Live meal search with TheMealDB API  
-- ✅ Filters for Veg / Non-Veg / All  
-- 🍽️ Category emojis (starter, main course, dessert)  
-- 📱 Responsive design  
-- 🎨 Emoji-based UI for enhanced user experience
+-  Live meal search with TheMealDB API  
+-  Filters for Veg / Non-Veg / All  
+- 🍽 Category emojis (starter, main course, dessert)  
+-  Responsive design  
+-  Emoji-based UI for enhanced user experience
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **API:** TheMealDB  
