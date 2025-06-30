@@ -2,12 +2,12 @@ import React from "react";
 import "./RecipeCard.css";
 
 const RecipeCard = ({ recipe }) => {
-  // ✅ Determine Veg or Non-Veg from category
+
   const isNonVeg = ["Beef", "Chicken", "Goat", "Lamb", "Pork", "Seafood"].includes(
     recipe.strCategory
   );
 
-  // ✅ Get Course Label (Starter / Main Course / Dessert)
+
   const getCourseLabel = () => {
     const tags = (recipe.strTags || "").toLowerCase();
     const name = recipe.strMeal.toLowerCase();
@@ -27,10 +27,10 @@ const RecipeCard = ({ recipe }) => {
       return "Starter";
     }
 
-    return "Main Course"; // fallback default
+    return "Main Course"; 
   };
 
-  // ✅ Get Course Emoji Icon based on the label
+
   const getCourseIcon = () => {
     const label = getCourseLabel();
 
