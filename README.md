@@ -1,17 +1,5 @@
-Here is a **clean, professional, and minimal `README.md`** you can copy-paste into your project. It includes:
 
-* Project name
-* Short description
-* Features
-* Technologies used
-* Screenshot
-
----
-
-### ✅ Final `README.md` (Copy this)
-
-```markdown
-# 🧑‍🍳 Let's Cook
+#🧑‍🍳 Let's Cook
 
 A responsive recipe finder app built using React that allows users to search for meals, filter by vegetarian/non-vegetarian and course type (starter, main course, dessert), and view full recipes.
 
@@ -35,8 +23,5 @@ A responsive recipe finder app built using React that allows users to search for
 
 
 
-```markdown
-![App Screenshot](public/Lets-Cook.png)
-```
 
 
