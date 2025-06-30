@@ -6,8 +6,7 @@ function App() {
   const [query, setQuery] = useState("");
   const [recipes, setRecipes] = useState([]);
   const [error, setError] = useState("");
-  const [filter, setFilter] = useState("all"); // all | veg | nonveg
-
+  const [filter, setFilter] = useState("all"); 
   const handleSearch = async (e) => {
     e.preventDefault();
 
